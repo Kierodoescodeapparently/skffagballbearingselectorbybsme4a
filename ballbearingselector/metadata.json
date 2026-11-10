@@ -1,0 +1,8 @@
+{
+  "name": "SKF / FAG Ball Bearing Selector",
+  "description": "ISO 281 engineering calculation program for selecting rolling ball bearings from SKF and FAG manufacturer catalogues with life prediction, safety verification, and designation interchange.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
